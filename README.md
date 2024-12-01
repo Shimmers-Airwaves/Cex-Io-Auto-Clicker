@@ -1,2 +1,1 @@
-# Cex-Io-Auto-Clicker
-Cex-Io-Auto-Clicker
+# Gemz-Auto-Clicker-Powerful
